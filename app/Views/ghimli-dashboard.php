@@ -55,7 +55,7 @@
                                     </a>
                                 </div>
                                 <div class="col-xs-6 col-sm-4 col-lg-4 margin-bottom-20">
-                                    <a href="../sewing-app/public" class="change-section">
+                                    <a href="<?= $url_sewing_app ?>" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <i class="fa fa-solid fa-shirt"></i>
                                             <h2>Sewing App</h2>
