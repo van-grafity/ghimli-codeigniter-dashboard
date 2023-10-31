@@ -50,7 +50,7 @@
                                     <a href="<?= $url_cutting_app ?>" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <i class="fa fa-solid fa-ticket"></i>
-                                            <h2>Cutting Ticket App</h2>
+                                            <h2>Cutting App</h2>
                                         </div>
                                     </a>
                                 </div>
@@ -66,7 +66,7 @@
                                     <a href="<?= $url_packing_app ?>" class="change-section">
                                         <div class="black-bg btn-menu">
                                             <i class="fa fas fa-box-open"></i>
-                                            <h2>Scan & Pack</h2>
+                                            <h2>Packing App</h2>
                                         </div>
                                     </a>
                                 </div>
