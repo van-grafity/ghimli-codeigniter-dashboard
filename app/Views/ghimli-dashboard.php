@@ -87,6 +87,14 @@
                                         </div>
                                     </a>
                                 </div>
+                                 <div class="col-xs-6 col-sm-4 col-lg-4 margin-bottom-20">
+                                    <a href="<?= $url_warehouse_app ?>" class="change-section">
+                                        <div class="black-bg btn-menu">
+                                            <i class="fa fa-solid fa-warehouse"></i>
+                                            <h2>Warehouse App</h2>
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                         </section><!-- /.menu-section -->    
                         

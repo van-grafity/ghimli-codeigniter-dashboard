@@ -152,3 +152,4 @@
 # URL_SEWING_APP = "http://localhost/sewing-app/public"
 # URL_PACKING_APP = "http://localhost/packing-app/public"
 # URL_COMPLIANCE_APP = "http://localhost/compliance-app/public"
+# URL_WAREHOUSE_APP = "http://localhost/warehouse-app/public"

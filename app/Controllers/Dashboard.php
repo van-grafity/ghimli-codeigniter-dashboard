@@ -12,6 +12,7 @@ class Dashboard extends BaseController
             'url_sewing_app' => getenv('URL_SEWING_APP'),
             'url_packing_app' => getenv('URL_PACKING_APP'),
             'url_compliance_app' => getenv('URL_COMPLIANCE_APP'),
+            'url_warehouse_app' => getenv('URL_WAREHOUSE_APP'),
         ];
         
         return view('ghimli-dashboard', $data);
